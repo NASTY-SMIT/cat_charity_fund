@@ -6,3 +6,5 @@ CANNOT_BE_DELETED = 'В проект были внесены средства, �
 
 PREFIX_CHARITY_PROJECT = '/charity_project'
 PREFIX_DONATION = '/donation'
+
+MIN_LENGTH_PASSWORD = 3
